@@ -1,11 +1,11 @@
 {
-  "name": "azure-iot-hub-demo",
-  "description": "Microsoft Azure IoT Hub demo",
+  "name": "resin-docker-azure-iot-hub-demo",
+  "description": "Microsoft Azure IoT Hub demo from a resin.io Docker container",
   "version": "0.1.0",
-  "homepage": "https://github.com/thegreatsunra/azure-iot-hub-demo",
+  "homepage": "https://github.com/thegreatsunra/resin-docker-azure-iot-hub-demo",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thegreatsunra/azure-iot-hub-demo.git"
+    "url": "https://github.com/thegreatsunra/resin-docker-azure-iot-hub-demo.git"
   },
   "author": "Dane Petersen <thegreatsunra@gmail.com>",
   "license": "MIT",

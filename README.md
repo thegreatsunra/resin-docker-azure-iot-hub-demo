@@ -1,8 +1,8 @@
-# azure-iot-hub-demo
+# resin-docker-azure-iot-hub-demo
 
-> Microsoft Azure IoT Hub demo
+> Microsoft Azure IoT Hub demo from a resin.io Docker container
 
-This demo is entirely based on [this tutorial](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-node-node-getstarted)
+This demo is based on [this tutorial](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-node-node-getstarted)
 
 ## Prerequisites
 
@@ -23,8 +23,8 @@ This demo is entirely based on [this tutorial](https://docs.microsoft.com/en-us/
 1) clone this repo
 
 ```bash
-git clone https://github.com/thegreatsunra/azure-iot-hub-demo.git
-cd azure-iot-hub-demo
+git clone https://github.com/thegreatsunra/resin-docker-azure-iot-hub-demo.git
+cd resin-docker-azure-iot-hub-demo
 ```
 
 2) install dependencies
